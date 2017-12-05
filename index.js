@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'core.imports',
+    name: 'core.plugin.import',
     extend: {
         imports: {},
         import (name, modul) {
