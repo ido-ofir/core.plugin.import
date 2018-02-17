@@ -1,6 +1,6 @@
 {
     "name": "core.plugin.import",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "handles 3rd party imports",
     "main": "index.js",
     "scripts": {
